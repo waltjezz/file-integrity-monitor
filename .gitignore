@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.tmp
+baseline.json
+integrity-baseline.json
+.DS_Store
